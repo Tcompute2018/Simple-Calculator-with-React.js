@@ -6,6 +6,16 @@ function App() {
 				<div className = "display">
 					<span> (0)</span> 0
 				</div>
+
+				<div className = "operator">
+					<button>/</button>
+					<button>*</button> 
+					<button>+</button> 
+					<button>-</button>
+
+				
+				</div>
+				
 			</div>
 		</div>
 	);
